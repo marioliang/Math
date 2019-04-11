@@ -1,7 +1,8 @@
 # Math
-Math relate code
+## Math relate code
 
 * Addition
 * Subtraction
 
-Learning Math
+## Learning Math
+* Nice
